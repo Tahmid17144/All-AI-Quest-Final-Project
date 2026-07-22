@@ -1,0 +1,54 @@
+This repository presents an end-to-end time series forecasting framework for predicting Carbon Monoxide (CO) and Nitrogen Dioxide (NO₂) concentrations using two widely adopted forecasting approaches:
+- Prophet
+- Vector AutoRegression (VAR)
+The project covers data preprocessing, exploratory data analysis (EDA), feature engineering, model development, forecasting, evaluation, and visualization.
+
+Features
+- Time Series Forecasting
+- Data Cleaning
+- Missing Value Handling
+- Date-Time Feature Engineering
+- Prophet Forecasting
+- VAR Forecasting
+- Performance Evaluation
+- Visualization
+- Modular Code
+- Reproducible Results
+
+
+
+Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Prophet
+- Statsmodels
+- Scikit-learn
+
+
+Evaluation Metrics
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- Mean Absolute Percentage Error (MAPE)
+- R² Score
+
+
+
+Output
+- Forecast plots
+- Residual plots
+- Prediction CSV
+- Evaluation report
+
+
+
+
+Future Work
+- LSTM
+- GRU
+- Transformer
+- Temporal Fusion Transformer
+- N-BEATS
+- Autoformer
+
